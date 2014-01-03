@@ -8,7 +8,9 @@ Server's crashing, mysql is freaking out, and you're working like made to get it
 ```
 git clone git@github.com:chmac/downy.git
 cd downy
-sudo coffee 503.coffee
+sudo coffee downy.coffee chmac
 ```
+
+Substitute chmac for your own twitter username.
 
 It's ugly but it works. Pull requests welcome.
