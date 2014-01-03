@@ -10,3 +10,5 @@ git clone git@github.com:chmac/downy.git
 cd downy
 sudo coffee 503.coffee
 ```
+
+It's ugly but it works. Pull requests welcome.
